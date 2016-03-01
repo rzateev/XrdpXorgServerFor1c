@@ -1,0 +1,6 @@
+Основные ссылки
+http://manu.agat.net/dotclear/index.php/post/2015/07/23/Efficient-Remote-Desktop-on-linux
+http://www.linux.org.ru/forum/admin/12198956
+https://www.linkedin.com/pulse/good-opportunity-learning-how-x-xrdp-open-source-george-bungarzescu
+
+Вспомогательные ссылки
