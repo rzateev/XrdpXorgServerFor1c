@@ -3,4 +3,28 @@ http://manu.agat.net/dotclear/index.php/post/2015/07/23/Efficient-Remote-Desktop
 http://www.linux.org.ru/forum/admin/12198956
 https://www.linkedin.com/pulse/good-opportunity-learning-how-x-xrdp-open-source-george-bungarzescu
 
+
+github проекты
+
+https://github.com/neutrinolabs/xorgxrdp/
+https://github.com/neutrinolabs/xrdp/
+
+Зарегестированная ошибка
+https://github.com/neutrinolabs/xrdp/issues/337
+
+Обсуждение разработчиков xorgxrdp
+https://groups.google.com/forum/m/#!topic/xrdp-devel/PYKCYD5t_fw
+
+https://groups.google.com/forum/#!forum/xrdp-devel
+
+
 Вспомогательные ссылки
+http://www.tweaking4all.com/software/linux-software/use-xrdp-remote-access-ubuntu-14-04/
+https://wiki.xfce.org/start?id=faq
+http://scarygliders.net/2013/07/25/x11rdp-o-matic-version-3-now-released/
+
+
+=============================================================================
+Клиентская часть
+http://infostart.ru/public/269480/
+https://sites.google.com/site/grabliubuntu/desktop/rdesktop
